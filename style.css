@@ -1,7 +1,8 @@
 body {
-  font-family: "VT323", monospace;
-background-color: #252422;
-
+  font-family:  'Gruppo', sans-serif;
+background-color: #000220;
+padding: 0;
+margin: 0;
 }
 
 
@@ -41,7 +42,7 @@ border-radius: 25px;
 .headerstart h1 {
 padding-top: 10%;
 color: white;
-font-size: 3vw;
+font-size: 4vw;
 text-align: center;
 }
 
