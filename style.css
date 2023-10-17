@@ -14,7 +14,6 @@ border-radius: 25px;
 
 
 .container2 {
-margin: 15px;
 background-image: url("CBG.jpg");
 background-size: 100vw;
 height: 50vw;
@@ -25,9 +24,11 @@ justify-content: center;
 }
 
 .headerstart{
+display: flex;
+justify-content: center;
+align-item: center;
 margin: 10px;
-height: 350px;
-border-radius: 25px;
+height: 250px;
 
 }
 
@@ -39,10 +40,9 @@ border-radius: 25px;
 }
 
 .headerstart p{
-padding-top: 5%;
 color: white;
-font-size: 4vw;
-text-align: center;
+font-size: 5vw;
+text-align: left;
 }
 
 .info3 {
