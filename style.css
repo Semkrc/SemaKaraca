@@ -38,8 +38,8 @@ border-radius: 25px;
   }
 }
 
-.headerstart h1 {
-padding-top: 10%;
+.headerstart p{
+padding-top: 5%;
 color: white;
 font-size: 4vw;
 text-align: center;
