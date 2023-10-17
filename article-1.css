@@ -1,6 +1,7 @@
 * {
-background-color:#252422;
-font-family: "VT323", monospace;
+font-family:  'Gruppo', sans-serif;
+background-color: #000220;
+
 
 }
 
@@ -21,8 +22,7 @@ text-align: left;
 float: left;
 }
 .right a {
-color:  #ff5a00;
-
+color:  white;
 }
 
 
@@ -37,7 +37,7 @@ li a {
   
 li a:hover {
 color: black;
-background-color: #ff5a00;
+background-color: #393F86;
 border-radius: 35px;
 }
 
@@ -48,7 +48,7 @@ top: 0;
 
 
 .mainarticle li{
-color: #ff5a00;
+color: #393F86;
 }
 
 
@@ -83,7 +83,7 @@ text-align: left;
 h6 {
 font-size: 15px;
 text-align: left;
-color:#ff5a00;
+color: white;
 }
 
 
