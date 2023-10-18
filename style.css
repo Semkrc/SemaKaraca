@@ -190,7 +190,7 @@ background-size: 100%;
 }
 .card p {
   padding: 10px;
-  padding-top: 80px;
+	padding-top: 10px;
 color:white;
 }
 
@@ -208,7 +208,7 @@ font-size: 3vw;
   float: right;
   text-decoration: none;
 padding: 15px;
-margin-top: 15%;
+margin-top: 5%;
 }
 
 
