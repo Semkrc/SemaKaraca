@@ -140,7 +140,7 @@ border-radius: 35px;
 
 
 .container {
-padding-top: 45%;
+margin-top: 55%;
   display: flex;  
   justify-content: center; 
   flex-wrap: wrap;
