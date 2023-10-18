@@ -34,7 +34,7 @@ li a {
 } 
   
 li a:hover {
-color: black;
+color: white;
 background-color: #393F86;
 border-radius: 35px;
 }
