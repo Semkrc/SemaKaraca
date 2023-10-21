@@ -140,11 +140,9 @@ border-radius: 35px;
 
 
 .container {
-margin-top: 55%;
   display: flex;  
   justify-content: center; 
-  flex-wrap: wrap;
-	padding-top: 45px;
+  align-items: center;
 }
 
 
