@@ -149,13 +149,16 @@ margin-top: 55%;
 
 
 
-.cardFilter {
+.filterCard {
   background-color: #111154;
   width: 45%;
   height: 500px;
   margin: 10px;
   border-radius: 25px;
 transition: transform .5s;
+	display: none;
+flex-wrap: wrap;
+justify-content: center;
   
   
 }
@@ -188,7 +191,7 @@ background-size: 100%;
   border-radius: 15px 15px 0 0;
   padding-left: 10px;
 }
-.cardFilter p {
+.filterCard p {
   padding: 10px;
 	padding-top: 10px;
 color:white;
@@ -203,7 +206,7 @@ color: white;
 }
 
 
-.cardFilter a {
+.filterCard a {
 font-size: 3vw;
     color: white;
   display: block;
@@ -215,7 +218,7 @@ margin-top: 5%;
 
 
 
-.cardFilter:hover {
+.filterCard:hover {
   cursor: pointer;
   transform: scale(1.05);
 }
@@ -234,5 +237,37 @@ justify-content: center;
 }
 
 
+.show {
+  display: block;
+}
 
+/* Style the buttons */
+.btn {
+  border-radius: 35px;
+  outline: none;
+  padding: 16px 28px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+font-size: 15px;
+}
+
+/* Add a light grey background on mouse-over */
+.btn:hover {
+  background-color:#003366;
+}
+
+/* Add a dark background to the active button */
+.btn.active {
+  background-color: #003366;
+  color: white;
+}
+
+.filterBtns {
+margin-top: 150px;
+padding: 15px;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+}
 
