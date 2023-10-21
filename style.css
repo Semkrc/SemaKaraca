@@ -140,7 +140,7 @@ border-radius: 35px;
 
 
 .container {
-	margin-top: 5%;
+	margin-top: 15%;
   display: flex;  
   justify-content: center; 
   align-items: center;
@@ -263,7 +263,7 @@ font-size: 15px;
 }
 
 .filterBtns {
-margin-top: 350px;
+margin-top: 15%;
 padding: 20px;
 display: flex;
 flex-wrap: wrap;
