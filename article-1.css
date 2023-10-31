@@ -93,8 +93,7 @@ input[type=text]:invalid {
 
 
 
-.containerComment {
-margin-top: 5%;
+.containerComment{
     width: 80%;
     display: flex;
     flex-direction: column;
@@ -153,7 +152,7 @@ outline: none;
 footer {
 border: 1px solid white;
 border-radius: 35px;
-margin-top: 15%;
+margin-top: 10%;
 width: 100%;
 height: 200px;
 display: flex;
