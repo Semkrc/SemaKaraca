@@ -256,12 +256,12 @@ color: white;
 
 
 .filterCard a {
-font-size: 20px;
+font-size: 40px;
 color: white;
 display: block;
 float: right;
 text-decoration: none;
-margin: 20px;
+margin: 5%;
 position: fixed;
 }
 
