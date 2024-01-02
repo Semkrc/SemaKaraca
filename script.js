@@ -52,8 +52,8 @@ filterSelection("all");
 
 function sendEmailDefault(){
   var email = "example@example.com";
-  var subject = "Test Email";
-  var msgBody = "Thank you for contacting us, we will get back to you in 24 hours!";
+  var subject = "";
+  var msgBody = "N'oubliez pas de mettre vos coordonnées en fin de mail! :) ";
   window.open(`mailto:${email}?subject=${subject}&body=${msgBody}`);
 }
 
