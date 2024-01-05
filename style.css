@@ -297,6 +297,16 @@ background: no repeat;
   padding-left: 10px;
 }
 
+.card-image12{
+background-image: url("IMG_1079.webp");
+background-size: 100%;
+background: no repeat;	
+  background-color: #686C6D;
+  height: 250px;
+  margin-bottom: 15px;
+  border-radius: 15px 15px 0 0;
+  padding-left: 10px;
+}
 
 
 
