@@ -345,6 +345,33 @@ background: no repeat;
 }
 
 
+
+.card-image16{
+background-image: url("IMG_1089.jpeg");
+background-size: 100%;
+background: no repeat;	
+  background-color: #686C6D;
+  height: 250px;
+  margin-bottom: 15px;
+  border-radius: 15px 15px 0 0;
+  padding-left: 10px;
+}
+
+
+.card-image17{
+background-image: url("IMG_1084.jpeg");
+background-size: 100%;
+background: no repeat;	
+  background-color: #686C6D;
+  height: 250px;
+  margin-bottom: 15px;
+  border-radius: 15px 15px 0 0;
+  padding-left: 10px;
+}
+
+
+
+
 .filterCard p {
   padding: 10px;
 	padding-top: 10px;
