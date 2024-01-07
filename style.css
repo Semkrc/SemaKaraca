@@ -310,7 +310,7 @@ background: no repeat;
 
 
 .card-image13{
-background-image: url("IMG_");
+background-image: url("IMG_1093.jpeg");
 background-size: 100%;
 background: no repeat;	
   background-color: #686C6D;
@@ -369,7 +369,39 @@ background: no repeat;
   padding-left: 10px;
 }
 
+.card-image18{
+background-image: url("IMG_1086.jpeg");
+background-size: 100%;
+background: no repeat;	
+  background-color: #686C6D;
+  height: 250px;
+  margin-bottom: 15px;
+  border-radius: 15px 15px 0 0;
+  padding-left: 10px;
+}
 
+.card-image19{
+background-image: url("IMG_1094.webp");
+background-size: 100%;
+background: no repeat;	
+  background-color: #686C6D;
+  height: 250px;
+  margin-bottom: 15px;
+  border-radius: 15px 15px 0 0;
+  padding-left: 10px;
+}
+
+
+.card-image20{
+background-image: url("IMG_1080.jpeg");
+background-size: 100%;
+background: no repeat;	
+  background-color: #686C6D;
+  height: 250px;
+  margin-bottom: 15px;
+  border-radius: 15px 15px 0 0;
+  padding-left: 10px;
+}
 
 
 .filterCard p {
